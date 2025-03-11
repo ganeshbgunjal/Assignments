@@ -5,3 +5,4 @@
 4. Fourth assignment is about tuple and its basic function and with set and dictionary and lists.
 5. fifth assignment is about sets and its functions.
 6. Sixth assignment is about dictionary and its functions.
+7. Seventh assignment is about advanced function in python.
