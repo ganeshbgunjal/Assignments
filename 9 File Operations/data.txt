@@ -1,0 +1,5 @@
+thiss is file for replacing words.
+thiss will replace old word with new word.
+thiss new word will be given by user or coder. 
+
+-- 'thiss' Word is replaced with 'thiss'-- 
