@@ -1,0 +1,2 @@
+This file is for counting words line and characters.
+this is simple code given there.
