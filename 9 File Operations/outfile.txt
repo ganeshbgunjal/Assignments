@@ -1,0 +1,2 @@
+This is file 1 data for merging files
+This is file 2 data for merging files. 
