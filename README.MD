@@ -7,3 +7,5 @@
 6. Sixth assignment is about dictionary and its functions.
 7. Seventh assignment is about advanced function in python.
 8. Eight assignment is about packages and modules.
+9. Nineth assignment is about file operations in details. 
+10. Tenth assignment is about exception handling.
