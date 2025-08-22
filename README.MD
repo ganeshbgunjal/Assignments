@@ -3,3 +3,4 @@
 2. Control Flow statement assignment
 3. List assignment
 4. Tuple assignment
+5. Sets assignment
