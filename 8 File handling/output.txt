@@ -1,0 +1,3 @@
+Hello, this is line 1.
+Python makes file handling easy.
+Each string will be written on a new line.
