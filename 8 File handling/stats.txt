@@ -1,0 +1,4 @@
+java is a powerful programming language.
+Many people use java for data science and machine learning.
+java is also great for web development.
+I enjoy solving problems with java every day.
