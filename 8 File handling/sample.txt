@@ -1,0 +1,7 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+You can use it to practice reading files in Python.
+
+Line 4: Python is fun!
+Line 5: Data Science is powerful.
+Line 6: End of file.
