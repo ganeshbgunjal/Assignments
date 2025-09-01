@@ -1,0 +1,8 @@
+Hello, this is line 1.
+Python makes file handling easy.
+Each string will be written on a new line.
+Appending this to log.txt file for append file operation.
+Appending this to log.txt file for append file operation.
+Appending this to log.txt file for append file operation.
+Appending this to log.txt file for append file operation.
+Appending this to log.txt file for append file operation.
