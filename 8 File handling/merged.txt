@@ -1,0 +1,4 @@
+This is file1 to merge in the main file. 
+
+This is file2 fo merging into main file.
+This is file3 for merging into main file.
