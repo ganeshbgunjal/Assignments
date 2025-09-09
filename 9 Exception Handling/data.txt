@@ -1,0 +1,3 @@
+Hello, this is a test file.
+We are practicing exception handling in Python.
+This file will be read using try, except, and finally.
